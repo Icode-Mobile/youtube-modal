@@ -1,5 +1,5 @@
 <p align="center">
-<img src=".github/youtube-modal.mp4" height="400">
+<img src=".github/application.gif" height="300">
 </p>
 
 # Bottom Sheet
